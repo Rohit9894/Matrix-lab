@@ -7,3 +7,5 @@ Search Results
 ![Screenshot (436)](https://github.com/Rohit9894/Matrix-lab/assets/101738635/53ba2a59-286c-457f-b78e-c6ca24639aba)
 Wallet Option
 ![Screenshot (437)](https://github.com/Rohit9894/Matrix-lab/assets/101738635/a5d0dc0f-298f-430b-bbf3-81410b3d2333)
+Responsive design
+![Screenshot (438)](https://github.com/Rohit9894/Matrix-lab/assets/101738635/73313900-9d5d-4958-bfb4-5b9b82987de7)
