@@ -18,9 +18,9 @@ function Info({ createAt, symbol, dexId, pairAdress }) {
       <Flex justify={"space-between"}>
         <Stack lineHeight={"20px"}>
           <Text>Pair created at </Text>
-          <Text>Symbol</Text>
+          {/* <Text>Symbol</Text>
           <Text>Dex ID </Text>
-          <Text>Pair Address </Text>
+          <Text>Pair Address </Text> */}
         </Stack>
         <Stack lineHeight={"20px"}>
           <Text>{createAt}</Text>
