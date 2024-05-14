@@ -47,7 +47,7 @@ function PairResult() {
   return (
     <div>
       <Flex
-        display={["flex", "none"]}
+       
         justifyContent={"space-between"}
         px="20px"
         alignItems={"center"}
